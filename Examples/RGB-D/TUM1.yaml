@@ -69,6 +69,7 @@ Viewer.ViewpointZ: -1.8
 Viewer.ViewpointF: 500
 
 # Test tracking by photometric error and NID
+# NID method is not supported yet, always set it to 0
 UseNID: 0
 UseDirect: 1
 
